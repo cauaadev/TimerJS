@@ -41,7 +41,7 @@ body {
 .botoes {
   display: flex;
   justify-content: center;
-  gap: 10px; /* Espaço entre os botões */
+  gap: 10px;
 }
 
 button {
